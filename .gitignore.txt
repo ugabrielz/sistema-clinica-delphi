@@ -1,0 +1,14 @@
+# Delphi
+*.exe
+*.dcu
+*.identcache
+*.local
+*.map
+*.stat
+*.drc
+*.rsm
+__history/
+Win32/
+Win64/
+Debug/
+Release/

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/04/18 14:29:36.000.008,=C:\Users\dunks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/19 17:10:38.822,=C:\Users\dunks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/19 17:11:03.412,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Clinica.pas=C:\Users\dunks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/19 17:11:03.412,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Clinica.dfm=C:\Users\dunks\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/04/19 17:11:08.697,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Clinicaa.dproj=C:\Users\dunks\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/04/19 19:11:08.484,=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit1.pas</Transaction>
+    <Transaction>2026/04/19 21:24:15.980,=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit2.pas</Transaction>
+    <Transaction>2026/04/19 21:24:22.520,=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit3.pas</Transaction>
+    <Transaction>2026/04/19 21:24:40.961,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\ClinicaPacientes.dfm=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit2.dfm</Transaction>
+    <Transaction>2026/04/19 21:24:40.961,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\ClinicaPacientes.pas=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit2.pas</Transaction>
+    <Transaction>2026/04/19 21:24:57.262,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\ClinicaAgendamentos.pas=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit3.pas</Transaction>
+    <Transaction>2026/04/19 21:24:57.262,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\ClinicaAgendamentos.dfm=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit3.dfm</Transaction>
+    <Transaction>2026/04/20 20:09:44.791,=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit1.pas</Transaction>
+    <Transaction>2026/04/20 20:15:58.530,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Clinicabanco.dfm=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit1.dfm</Transaction>
+    <Transaction>2026/04/20 20:15:58.530,C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Clinicabanco.pas=C:\Users\dunks\OneDrive\Área de Trabalho\estudos delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
